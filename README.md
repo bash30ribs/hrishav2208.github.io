@@ -1,2 +1,2 @@
-# hrishav2208.githu.io
+# hrishav2208.github.io
 for fun
